@@ -23,3 +23,4 @@ Crie seu próprio portfólio front-end, atentando-se para que seja autêntico, v
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Com contribuição de <a href="https://github.com/liragp11">LiraGP11</a>.</div>
